@@ -25,7 +25,6 @@ O bot combina dados de mercado em tempo real com indicadores técnicos para gera
   - COMPRA
   - VENDA
   - AGUARDAR
-- ⚠️ Geração de análise com aviso legal (não é recomendação financeira)
 
 ---
 
