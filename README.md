@@ -45,13 +45,3 @@ Fluxo:
 3. Busca dados reais da ação  
 4. Aplica indicadores técnicos  
 5. Gera uma análise estruturada + sinal de trading  
-
----
-
-## 📂 Estrutura do Projeto
-├── main.py # Inicialização do bot
-├── bot_handler.py # Integração com Telegram
-├── settings.py # Configurações e variáveis de ambiente
-├── agent/
-     ├── brain.py # Lógica do agente (LangChain + GPT)
-     └── tools.py # Indicadores técnicos e funções financeiras
